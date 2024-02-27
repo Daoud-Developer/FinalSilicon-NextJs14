@@ -1,0 +1,30 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@img-comparison-slider/react": "^8.0.1",
+    "bootstrap": "^5.3.3",
+    "boxicons": "^2.1.4",
+    "jarallax": "^2.2.0",
+    "lightgallery": "^2.7.2",
+    "next": "14.1.0",
+    "parallax-js": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-headroom": "^3.2.1",
+    "react-parallax-tilt": "^1.7.212",
+    "rellax": "^1.12.1",
+    "swiper": "^11.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0"
+  }
+}
